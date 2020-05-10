@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4dd1eytyl83kr3ub?svg=true)](https://ci.appveyor.com/project/ivalynx/ajs-homeworks-unit-testing-matchers)
